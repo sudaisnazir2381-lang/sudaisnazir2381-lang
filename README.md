@@ -39,7 +39,7 @@
 ║   SPECIALTY : PENETRATION TESTING                ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
-
+```
 </div>
 > whoami
 
@@ -69,31 +69,11 @@ I also have hands-on experience in Bug Bounty Hunting, OSINT, Reconnaissance, We
 > responsible disclosure
 <div align="center">
 HALL OF FAME
-<br> <a href="https://www.basf.com/global/en/legal/responsible-disclosure-statement"> <img src="https://img.shields.io/badge/BASF-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
-
-  
-
-<a href="https://pescheck.io/responsible-disclosure-hall-of-fame/"> <img src="https://img.shields.io/badge/PESCHECK-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
-
-  
-
-<a href="https://lespasoftware.com/security.html"> <img src="https://img.shields.io/badge/LESPA%20SOFTWARE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
-
-  
-
-<a href="https://www.gokoppa.com/security/hall-of-fame/"> <img src="https://img.shields.io/badge/KOPPA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
+<br> <a href="https://www.basf.com/global/en/legal/responsible-disclosure-statement"> <img src="https://img.shields.io/badge/BASF-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a> <a href="https://pescheck.io/responsible-disclosure-hall-of-fame/"> <img src="https://img.shields.io/badge/PESCHECK-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a> <a href="https://lespasoftware.com/security.html"> <img src="https://img.shields.io/badge/LESPA%20SOFTWARE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a> <a href="https://www.gokoppa.com/security/hall-of-fame/"> <img src="https://img.shields.io/badge/KOPPA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
 
 <br><br>
 
-<a href="https://www.unistra.fr/.well-known/hall-of-fame.txt"> <img src="https://img.shields.io/badge/UNISTRA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
-
-  
-
-<a href="https://gbtwente.nl/responsible-disclosure"> <img src="https://img.shields.io/badge/GBTWENTE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
-
-  
-
-<a href="https://www.pro4all.com/legal/responsible-disclosure"> <img src="https://img.shields.io/badge/PRO4ALL-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
+<a href="https://www.unistra.fr/.well-known/hall-of-fame.txt"> <img src="https://img.shields.io/badge/UNISTRA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a> <a href="https://gbtwente.nl/responsible-disclosure"> <img src="https://img.shields.io/badge/GBTWENTE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a> <a href="https://www.pro4all.com/legal/responsible-disclosure"> <img src="https://img.shields.io/badge/PRO4ALL-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/> </a>
 
 <br><br>
 
@@ -263,4 +243,4 @@ I want to understand the architecture, trust relationships, application logic, H
 ║              STAY ETHICAL                      ║
 ║                                                ║
 ╚════════════════════════════════════════════════╝
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3333,40:330000,75:100000,100:050000&height=150&section=footer" width="100%"/> </div> ```
+<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3333,40:330000,75:100000,100:050000&height=150&section=footer" width="100%"/> </div>
