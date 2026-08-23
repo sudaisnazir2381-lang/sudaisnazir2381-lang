@@ -1,134 +1,174 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:00ff88&height=230&section=header&text=SUDAIS%20NAZIR&fontSize=58&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=PENTESTER%20%7C%20SECURITY%20RESEARCHER%20%7C%20BUG%20BOUNTY&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1712,100:00ff88&height=240&section=header&text=SUDAIS%20NAZIR&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=CYBERSECURITY%20%7C%20PENTESTING%20%7C%20BUG%20BOUNTY&descAlignY=62&descSize=17" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=15+y%2Fo+Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT+%7C+Recon;Started+Hacking+at+13;Breaking+Systems+%7C+Understanding+Systems+%7C+Securing+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=780&lines=15+y%2Fo+Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT;Started+Hacking+at+13;Researching+%7C+Learning+%7C+Breaking+%7C+Securing"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB%20SECURITY-00ff88?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MODE-RESEARCH-00ff88?style=for-the-badge&labelColor=050505"/>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-`WEB SECURITY`  •  `PENTESTING`  •  `BUG BOUNTY`  •  `OSINT`  •  `API SECURITY`
+```text
+╭────────────────────────────────────────────╮
+│                                            │
+│              $ whoami                      │
+│                                            │
+│       Sudais Nazir                         │
+│       15 y/o Cybersecurity Researcher      │
+│                                            │
+╰────────────────────────────────────────────╯
+```
 
 </div>
 
----
+## `> about me`
 
-## `> whoami`
+Started my journey into **cybersecurity at 13**.
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Sudais Nazir                               │
-│   15 y/o Cybersecurity Researcher            │
-│                                              │
-│   ├── Pentester                              │
-│   ├── Bug Bounty Hunter                      │
-│   ├── Web Security Researcher                │
-│   ├── API Security Researcher                │
-│   └── OSINT & Recon Enthusiast               │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+Since then, I've been focused on learning how modern applications work, understanding their security boundaries, researching vulnerabilities, and participating in **bug bounty programs**.
 
-Started my cybersecurity journey at **13**.
+My primary interests are:
 
-Since then, I've been focused on learning through hands-on security research, bug bounty hunting, penetration testing, labs, and real-world vulnerability research.
-
-My main interests are **Web Application Security, API Security, Pentesting, OSINT, Reconnaissance, and Vulnerability Research**.
+**Web Application Security • Pentesting • Bug Bounty • API Security • OSINT • Vulnerability Research**
 
 ---
-
-## `> areas of interest`
 
 <div align="center">
 
-| 🔐 Web Security | 🌐 API Security |     🔎 Recon    |
-| :-------------: | :-------------: | :-------------: |
-|       XSS       |   API Testing   | Asset Discovery |
-|       SQLi      |  Authentication | Subdomain Recon |
-|       SSRF      |  Authorization  |      OSINT      |
-|       CSRF      |  Rate Limiting  |  Attack Surface |
-|       XXE       |  Business Logic |   Enumeration   |
-|       CORS      |      OAuth      |  Infrastructure |
+### `// SECURITY IS A MINDSET`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=Understand+the+application;Understand+the+trust+boundaries;Understand+the+attack+surface;Understand+the+vulnerability"/>
 
 </div>
 
 ---
 
-## `> security knowledge`
+## `> areas of research`
 
-```text
-WEB APPLICATION SECURITY
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+<div align="center">
 
-XSS                    ████████████████████
-SQL Injection          ████████████████████
-SSRF                   ██████████████████░░
-CSRF                   ██████████████████░░
-XXE                    ████████████████░░░░
-CORS                   █████████████████░░░
-IDOR                   ██████████████████░░
-OAuth                  ████████████████░░░░
-HTTP Smuggling         ███████████████░░░░░
-API Security           ███████████████████░
+<table>
+<tr>
+<td align="center" width="180">
 
+### `WEB`
 
-RECON & SECURITY TESTING
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+XSS
+SQL Injection
+SSRF
+CSRF
+XXE
+CORS
+IDOR
 
-Burp Suite • Nmap • ffuf • dirsearch
-subfinder • amass • assetfinder
-findomain • httpx • naabu
-sqlmap • Ghauri • Metasploit
-```
+</td>
 
----
+<td align="center" width="180">
 
-## `> research`
+### `AUTH`
 
-I enjoy understanding **why vulnerabilities exist**, not just running automated scanners.
+Authentication
+Authorization
+OAuth
+Sessions
+Password Reset
+Rate Limiting
 
-Areas I've researched include:
+</td>
 
-* Authentication & authorization
-* Password-reset security
-* Account & email enumeration
-* Rate-limit weaknesses
-* OAuth security
-* CSRF
-* API security
-* Information disclosure
-* Infrastructure security
-* Web application logic
-* Resource exhaustion
-* Origin and infrastructure exposure
-* Advanced reconnaissance
+<td align="center" width="180">
 
-My approach is centered around **manual testing, understanding application behavior, and responsible disclosure**.
+### `API`
+
+API Security
+Access Control
+Business Logic
+Input Validation
+Information Disclosure
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## `> current mission`
+## `> research mindset`
+
+<div align="center">
 
 ```text
-┌─ CYBERSECURITY ROADMAP ─────────────────────┐
-│                                             │
-│  [✓] Web Security                           │
-│  [✓] Bug Bounty                             │
-│  [✓] Recon & OSINT                          │
-│  [✓] API Security                           │
-│  [→] Advanced Pentesting                    │
-│  [→] Vulnerability Research                 │
-│  [→] Red Teaming                            │
-│  [→] Security Automation                    │
-│                                             │
-└─────────────────────────────────────────────┘
+       ┌─────────────┐
+       │   OBSERVE   │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   ANALYZE   │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │    TEST     │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │ UNDERSTAND  │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │   REPORT    │
+       └─────────────┘
 ```
+
+</div>
+
+I prefer understanding **why** something is vulnerable rather than simply relying on automated scanning.
+
+The goal is to understand the application's:
+
+* Architecture
+* Trust relationships
+* Authentication flow
+* Authorization model
+* HTTP behavior
+* Business logic
+* Security assumptions
+
+---
+
+## `> current interests`
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=700&color=00FF88&center=true&vCenter=true&width=650&lines=Advanced+Web+Security;API+Pentesting;Vulnerability+Research;Authentication+%26+Authorization;Red+Team+Methodology;Security+Automation"/>
+
+</div>
+
+---
+
+## `> achievements`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CVE-CVE--2026--18896-00ff88?style=for-the-badge&labelColor=050505"/>
+
+</div>
+
+Hands-on experience researching and responsibly disclosing vulnerabilities in real-world applications.
 
 ---
 
@@ -138,54 +178,9 @@ My approach is centered around **manual testing, understanding application behav
 
 ### **"Don't just learn the vulnerability. Learn why it exists."**
 
-</div>
+<br>
 
-I don't want to simply memorize payloads.
-
-I want to understand the **architecture, trust relationships, application logic, HTTP behavior, and security assumptions** that make vulnerabilities possible.
-
----
-
-## `> the mindset`
-
-```text
-     LEARN
-       │
-       ▼
-    EXPLORE
-       │
-       ▼
-     TEST
-       │
-       ▼
-   UNDERSTAND
-       │
-       ▼
-    REPORT
-       │
-       ▼
-    SECURE
-```
-
----
-
-## `> currently learning`
-
-<div align="center">
-
-`Advanced Web Security`
-
-`API Pentesting`
-
-`Vulnerability Research`
-
-`Advanced Recon`
-
-`Authentication & Authorization`
-
-`Red Teaming`
-
-`Security Automation`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Explore+%E2%86%92+Test+%E2%86%92+Understand+%E2%86%92+Secure"/>
 
 </div>
 
@@ -193,21 +188,20 @@ I want to understand the **architecture, trust relationships, application logic,
 
 <div align="center">
 
-<br>
-
 ```text
-╔══════════════════════════════════════╗
-║                                      ║
-║          ACCESS GRANTED               ║
-║                                      ║
-║       KEEP LEARNING. KEEP HACKING.   ║
-║       STAY ETHICAL.                  ║
-║                                      ║
-╚══════════════════════════════════════╝
+┌─────────────────────────────────────────────┐
+│                                             │
+│              CONNECTION ESTABLISHED         │
+│                                             │
+│                  0x00FF88                   │
+│                                             │
+│          KEEP LEARNING. KEEP BUILDING.      │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:101010,100:050505&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0b1712,100:050505&height=140&section=footer" width="100%"/>
 
 </div>
