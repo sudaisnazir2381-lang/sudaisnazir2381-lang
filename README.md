@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,35:120000,70:330000,100:8B0000&height=260&section=header&text=SUDAIS%20NAZIR&fontSize=62&fontColor=FF3333&animation=twinkling&fontAlignY=36&desc=CYBERSECURITY%20%7C%20PENTESTER%20%7C%20BUG%20BOUNTY&descAlignY=62&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050000,35:120000,70:330000,100:8B0000&height=260&section=header&text=SUDAIS%20NAZIR&fontSize=62&fontColor=FF3333&animation=twinkling&fontAlignY=36&desc=PENTESTER%20%7C%20BUG%20BOUNTY%20%7C%20SECURITY%20RESEARCHER&descAlignY=62&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=800&color=FF3333&center=true&vCenter=true&width=850&lines=15+y%2Fo+Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT+%7C+Recon;Started+Hacking+at+13;State+Verified;Researching+%7C+Testing+%7C+Securing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2600&pause=800&color=FF3333&center=true&vCenter=true&width=850&lines=15+y%2Fo+Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT+%7C+Recon;Started+Hacking+at+13;State+Verified;Researching+%7C+Testing+%7C+Securing"/>
 
 <br><br>
 
 <img src="https://img.shields.io/badge/STATE-VERIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
-<img src="https://img.shields.io/badge/CYBERPATRIOT%20PAKISTAN-CERTIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
+<img src="https://img.shields.io/badge/PENETESTING-PRIMARY%20SPECIALTY-FF3333?style=for-the-badge&labelColor=080000"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF3333?style=for-the-badge&labelColor=080000"/>
 
 </div>
@@ -23,11 +23,10 @@
 ║                                                  ║
 ║                 SYSTEM ONLINE                    ║
 ║                                                  ║
-║   USER      : SUDAIS NAZIR                      ║
+║   USER      : SUDAIS NAZIR                       ║
 ║   AGE       : 15                                 ║
-║   STATUS    : STATE VERIFIED                    ║
-║   ROLE      : SECURITY RESEARCHER               ║
-║   SPECIALTY : WEB APPLICATION SECURITY          ║
+║   STATUS    : STATE VERIFIED                     ║
+║   SPECIALTY : PENETRATION TESTING                ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -38,29 +37,80 @@
 
 I started my cybersecurity journey at **13** and have been building practical security experience ever since.
 
-I'm a **State Verified cybersecurity enthusiast and security researcher**, with a strong focus on:
+I'm a **State Verified cybersecurity researcher and pentester**, with a strong focus on **penetration testing, web application security, bug bounty hunting, API security, OSINT, and vulnerability research**.
 
-`Web Security` • `Pentesting` • `Bug Bounty` • `API Security` • `OSINT` • `Vulnerability Research`
-
-I enjoy understanding how applications work, finding security weaknesses, and responsibly reporting vulnerabilities.
+I enjoy understanding how applications work, identifying security weaknesses, and responsibly reporting vulnerabilities.
 
 ---
 
-## `> certifications`
+## `> credentials & recognition`
 
 <div align="center">
 
-### 🔴 CyberPatriot Pakistan
+### `PRIMARY SPECIALTY`
 
-<img src="https://img.shields.io/badge/CYBERPATRIOT%20PAKISTAN-CERTIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
+<img src="https://img.shields.io/badge/SPECIALTY-PENETESTING-FF3333?style=for-the-badge&labelColor=080000"/>
 
 <br><br>
 
-**CyberPatriot Pakistan Certified**
+<img src="https://img.shields.io/badge/STATE-VERIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
+<img src="https://img.shields.io/badge/CYBERPATRIOT%20PAKISTAN-CERTIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
+<img src="https://img.shields.io/badge/SECURITY%20RESEARCHER-VERIFIED-FF3333?style=for-the-badge&labelColor=080000"/>
+
+</div>
+
+My primary specialty is **Penetration Testing**, with a strong focus on web applications, APIs, authentication, authorization, and vulnerability research.
+
+I also have hands-on experience in **Bug Bounty Hunting, OSINT, Reconnaissance, Web Security, and API Security**.
+
+---
+
+## `> responsible disclosure`
+
+<div align="center">
+
+### `HALL OF FAME`
 
 <br>
 
-Cybersecurity training and practical security experience.
+<a href="https://www.basf.com/global/en/legal/responsible-disclosure-statement">
+<img src="https://img.shields.io/badge/BASF-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<a href="https://pescheck.io/responsible-disclosure-hall-of-fame/">
+<img src="https://img.shields.io/badge/PESCHECK-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<a href="https://lespasoftware.com/security.html">
+<img src="https://img.shields.io/badge/LESPA%20SOFTWARE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<a href="https://www.gokoppa.com/security/hall-of-fame/">
+<img src="https://img.shields.io/badge/KOPPA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<br><br>
+
+<a href="https://www.unistra.fr/.well-known/hall-of-fame.txt">
+<img src="https://img.shields.io/badge/UNISTRA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<a href="https://gbtwente.nl/responsible-disclosure">
+<img src="https://img.shields.io/badge/GBTWENTE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+<a href="https://www.pro4all.com/legal/responsible-disclosure">
+<img src="https://img.shields.io/badge/PRO4ALL-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+`BASF` • `PESCHECK` • `LESPA SOFTWARE` • `KOPPA`
+`UNISTRA` • `GBTWENTE` • `PRO4ALL`
 
 </div>
 
@@ -123,11 +173,11 @@ Authorization Testing
 
 ---
 
-## `> research`
+## `> security research`
 
 ```text
 ┌──────────────────────────────────────────────────┐
-│                 SECURITY RESEARCH                │
+│              SECURITY RESEARCH                   │
 ├──────────────────────────────────────────────────┤
 │                                                  │
 │  [01] Web Application Security                   │
@@ -159,53 +209,15 @@ I like investigating:
 
 ---
 
-## `> responsible disclosure`
-
-<div align="center">
-
-### `HALL OF FAME`
-
-<br>
-
-<a href="https://www.basf.com/global/en/legal/responsible-disclosure-statement">
-<img src="https://img.shields.io/badge/BASF-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<a href="https://pescheck.io/responsible-disclosure-hall-of-fame/">
-<img src="https://img.shields.io/badge/PESCHECK-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<a href="https://lespasoftware.com/security.html">
-<img src="https://img.shields.io/badge/LESPA%20SOFTWARE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<a href="https://www.gokoppa.com/security/hall-of-fame/">
-<img src="https://img.shields.io/badge/KOPPA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<br><br>
-
-<a href="https://www.unistra.fr/.well-known/hall-of-fame.txt">
-<img src="https://img.shields.io/badge/UNISTRA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<a href="https://gbtwente.nl/responsible-disclosure">
-<img src="https://img.shields.io/badge/GBTWENTE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-<a href="https://www.pro4all.com/legal/responsible-disclosure">
-<img src="https://img.shields.io/badge/PRO4ALL-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
-</a>
-
-</div>
-
----
-
 ## `> vulnerability research`
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/CVE-CVE--2026--18896-FF3333?style=for-the-badge&labelColor=080000"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BUG%20BOUNTY-ACTIVE-FF3333?style=for-the-badge&labelColor=080000"/>
 
 </div>
 
@@ -221,36 +233,42 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 
 </div>
 
+<br>
+
+<div align="center">
+
 ```text
-       ┌──────────┐
-       │  RECON   │
-       └────┬─────┘
-            │
-            ▼
-       ┌──────────┐
-       │ ANALYZE  │
-       └────┬─────┘
-            │
-            ▼
-       ┌──────────┐
-       │   TEST   │
-       └────┬─────┘
-            │
-            ▼
-       ┌──────────┐
-       │UNDERSTAND│
-       └────┬─────┘
-            │
-            ▼
-       ┌──────────┐
-       │  REPORT  │
-       └────┬─────┘
-            │
-            ▼
-       ┌──────────┐
-       │  SECURE  │
-       └──────────┘
+        ┌─────────────┐
+        │   OBSERVE   │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   ANALYZE   │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    TEST     │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │ UNDERSTAND  │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   REPORT    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   SECURE    │
+        └─────────────┘
 ```
+
+</div>
 
 ---
 
@@ -273,7 +291,7 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 ```text
 ╔════════════════════════════════════════════════╗
 ║                                                ║
-║              CONNECTION ESTABLISHED            ║
+║            CONNECTION ESTABLISHED              ║
 ║                                                ║
 ║                  0xFF3333                      ║
 ║                                                ║
