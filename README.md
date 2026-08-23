@@ -15,11 +15,14 @@
 <br><br>
 
 <!-- Social / profile links row - fill in your real handles -->
-<a href="https://github.com/sudaisnazir2381-lang">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-080000?style=for-the-badge&logo=github&logoColor=FF3333"/>
 </a>
 <a href="mailto:you@example.com">
 <img src="https://img.shields.io/badge/Email-080000?style=for-the-badge&logo=gmail&logoColor=FF3333"/>
+</a>
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/Twitter-080000?style=for-the-badge&logo=x&logoColor=FF3333"/>
 </a>
 
 </div>
@@ -239,7 +242,7 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudaisnazir2381-lang&show_icons=true&count_private=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="34%"/>
 
 <br><br>
