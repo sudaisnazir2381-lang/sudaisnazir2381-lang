@@ -12,6 +12,19 @@
 <img src="https://img.shields.io/badge/PENETESTING-PRIMARY%20SPECIALTY-FF3333?style=for-the-badge&labelColor=080000"/>
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-FF3333?style=for-the-badge&labelColor=080000"/>
 
+<br><br>
+
+<!-- Social / profile links row - fill in your real handles -->
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-080000?style=for-the-badge&logo=github&logoColor=FF3333"/>
+</a>
+<a href="mailto:you@example.com">
+<img src="https://img.shields.io/badge/Email-080000?style=for-the-badge&logo=gmail&logoColor=FF3333"/>
+</a>
+<a href="https://twitter.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/Twitter-080000?style=for-the-badge&logo=x&logoColor=FF3333"/>
+</a>
+
 </div>
 
 ---
@@ -222,6 +235,65 @@ I like investigating:
 </div>
 
 Hands-on experience researching and responsibly disclosing vulnerabilities in real-world applications.
+
+---
+
+## `> github activity`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="34%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=080000&ring=FF3333&fire=FF3333&currStreakLabel=FF3333&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=080000&color=FF3333&line=FF3333&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+> Replace `YOUR_USERNAME` above with your GitHub handle to activate live stats, streak, and contribution graph widgets.
+
+---
+
+## `> featured repositories`
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/REPO_ONE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_ONE&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/REPO_TWO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_TWO&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+</a>
+
+<br>
+
+<a href="https://github.com/YOUR_USERNAME/REPO_THREE">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_THREE&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME/REPO_FOUR">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_FOUR&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+</a>
+
+</div>
+
+> Swap `REPO_ONE` … `REPO_FOUR` for the exact repo names you want pinned. Add or remove pairs as needed — each pin auto-pulls stars, forks, and language from GitHub.
+
+---
+
+## `> contribution snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
+
+> Powered by the `platane/snk` GitHub Action — generates an animated snake that "eats" your contribution graph. Add the workflow to a repo named exactly like your username to activate this.
 
 ---
 
