@@ -1,177 +1,191 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:00ff88&height=220&section=header&text=SUDAIS%20NAZIR&fontSize=55&fontColor=00ff88&animation=twinkling&fontAlignY=35&desc=Pentester%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Security%20Researcher&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:00ff88&height=230&section=header&text=SUDAIS%20NAZIR&fontSize=58&fontColor=00ff88&animation=twinkling&fontAlignY=38&desc=PENTESTER%20%7C%20SECURITY%20RESEARCHER%20%7C%20BUG%20BOUNTY&descAlignY=62&descSize=17" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=15+y%2Fo+Cybersecurity+Enthusiast;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT+%7C+Recon;Started+Hacking+at+13;Always+Learning+%7C+Always+Improving"/>
+<br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=sudaisnazir2381-lang&style=for-the-badge&color=00ff88&label=PROFILE+VIEWS"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=15+y%2Fo+Cybersecurity+Researcher;Pentester+%7C+Bug+Bounty+Hunter;Web+Application+Security;API+Security+%7C+OSINT+%7C+Recon;Started+Hacking+at+13;Breaking+Systems+%7C+Understanding+Systems+%7C+Securing+Systems"/>
 
 </div>
 
----
-
-## `whoami`
-
-```text
-> Sudais Nazir
-> 15 y/o Hacker & Pentester
-> Bug Bounty Hunter
-> Security Researcher
-> Web Security Enthusiast
-```
-
-I started my cybersecurity journey at **13** and have been learning, researching, and hunting vulnerabilities ever since.
-
-My main focus is **Web Application Security, API Security, Penetration Testing, Bug Bounty Hunting, OSINT, Reconnaissance, and Vulnerability Research**.
-
----
-
-## `./what-i-do`
+<br>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/WEB%20SECURITY-00ff88?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/PENTESTING-00ff88?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/BUG%20BOUNTY-00ff88?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/OSINT-00ff88?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/API%20SECURITY-00ff88?style=for-the-badge&logoColor=black"/>
+`WEB SECURITY`  •  `PENTESTING`  •  `BUG BOUNTY`  •  `OSINT`  •  `API SECURITY`
 
 </div>
 
 ---
 
-## `./security-stack`
-
-### Web Application Security
+## `> whoami`
 
 ```text
-XSS
-SQL Injection
-SSRF
-CSRF
-XXE
-CORS
-IDOR
-OAuth Security
-HTTP Request Smuggling
-Authentication & Authorization
-API Security
-Information Disclosure
-Business Logic
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Sudais Nazir                               │
+│   15 y/o Cybersecurity Researcher            │
+│                                              │
+│   ├── Pentester                              │
+│   ├── Bug Bounty Hunter                      │
+│   ├── Web Security Researcher                │
+│   ├── API Security Researcher                │
+│   └── OSINT & Recon Enthusiast               │
+│                                              │
+└──────────────────────────────────────────────┘
 ```
 
-### Recon & Security Testing
+Started my cybersecurity journey at **13**.
+
+Since then, I've been focused on learning through hands-on security research, bug bounty hunting, penetration testing, labs, and real-world vulnerability research.
+
+My main interests are **Web Application Security, API Security, Pentesting, OSINT, Reconnaissance, and Vulnerability Research**.
+
+---
+
+## `> areas of interest`
+
+<div align="center">
+
+| 🔐 Web Security | 🌐 API Security |     🔎 Recon    |
+| :-------------: | :-------------: | :-------------: |
+|       XSS       |   API Testing   | Asset Discovery |
+|       SQLi      |  Authentication | Subdomain Recon |
+|       SSRF      |  Authorization  |      OSINT      |
+|       CSRF      |  Rate Limiting  |  Attack Surface |
+|       XXE       |  Business Logic |   Enumeration   |
+|       CORS      |      OAuth      |  Infrastructure |
+
+</div>
+
+---
+
+## `> security knowledge`
 
 ```text
-Burp Suite
-Nmap
-ffuf
-dirsearch
-subfinder
-amass
-assetfinder
-findomain
-httpx
-naabu
-sqlmap
-Ghauri
-Metasploit
-Kali Linux
+WEB APPLICATION SECURITY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+XSS                    ████████████████████
+SQL Injection          ████████████████████
+SSRF                   ██████████████████░░
+CSRF                   ██████████████████░░
+XXE                    ████████████████░░░░
+CORS                   █████████████████░░░
+IDOR                   ██████████████████░░
+OAuth                  ████████████████░░░░
+HTTP Smuggling         ███████████████░░░░░
+API Security           ███████████████████░
+
+
+RECON & SECURITY TESTING
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Burp Suite • Nmap • ffuf • dirsearch
+subfinder • amass • assetfinder
+findomain • httpx • naabu
+sqlmap • Ghauri • Metasploit
 ```
 
 ---
 
-## `./experience`
+## `> research`
 
-I enjoy going beyond automated scanning and understanding **how applications actually work**.
+I enjoy understanding **why vulnerabilities exist**, not just running automated scanners.
 
-My security research has involved:
+Areas I've researched include:
 
-* Authentication and authorization testing
+* Authentication & authorization
 * Password-reset security
-* Account and email enumeration
-* Rate-limit testing
+* Account & email enumeration
+* Rate-limit weaknesses
 * OAuth security
 * CSRF
 * API security
 * Information disclosure
 * Infrastructure security
-* Web application logic flaws
-* Resource-exhaustion research
+* Web application logic
+* Resource exhaustion
 * Origin and infrastructure exposure
 * Advanced reconnaissance
 
-I focus on **manual testing, application logic, HTTP behavior, and responsible disclosure**.
+My approach is centered around **manual testing, understanding application behavior, and responsible disclosure**.
 
 ---
 
-## `./current-focus`
+## `> current mission`
 
 ```text
-[+] Advanced Web Security
-[+] API Pentesting
-[+] Vulnerability Research
-[+] Advanced Recon
-[+] Authentication & Authorization
-[+] Red Teaming
-[+] Security Automation
+┌─ CYBERSECURITY ROADMAP ─────────────────────┐
+│                                             │
+│  [✓] Web Security                           │
+│  [✓] Bug Bounty                             │
+│  [✓] Recon & OSINT                          │
+│  [✓] API Security                           │
+│  [→] Advanced Pentesting                    │
+│  [→] Vulnerability Research                 │
+│  [→] Red Teaming                            │
+│  [→] Security Automation                    │
+│                                             │
+└─────────────────────────────────────────────┘
 ```
 
 ---
 
-## `./philosophy`
+## `> philosophy`
 
 <div align="center">
 
-### `Don't just learn the vulnerability. Learn why it exists.`
+### **"Don't just learn the vulnerability. Learn why it exists."**
 
 </div>
 
 I don't want to simply memorize payloads.
 
-I want to understand the **architecture, trust relationships, application logic, HTTP behavior, and security assumptions** behind every vulnerability.
+I want to understand the **architecture, trust relationships, application logic, HTTP behavior, and security assumptions** that make vulnerabilities possible.
 
 ---
 
-## `./github-stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudaisnazir2381-lang&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudaisnazir2381-lang&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## `./activity`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudaisnazir2381-lang&theme=github-compact&hide_border=true&area=true&color=00ff88&line=00ff88&point=ffffff" width="95%"/>
-
-</div>
-
----
-
-## `./currently`
-
-<div align="center">
+## `> the mindset`
 
 ```text
-Learning
-    ↓
-Breaking
-    ↓
-Understanding
-    ↓
-Reporting
-    ↓
-Securing
+     LEARN
+       │
+       ▼
+    EXPLORE
+       │
+       ▼
+     TEST
+       │
+       ▼
+   UNDERSTAND
+       │
+       ▼
+    REPORT
+       │
+       ▼
+    SECURE
 ```
+
+---
+
+## `> currently learning`
+
+<div align="center">
+
+`Advanced Web Security`
+
+`API Pentesting`
+
+`Vulnerability Research`
+
+`Advanced Recon`
+
+`Authentication & Authorization`
+
+`Red Teaming`
+
+`Security Automation`
 
 </div>
 
@@ -179,8 +193,21 @@ Securing
 
 <div align="center">
 
-### `ACCESS GRANTED`
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:111111,100:000000&height=120&section=footer" width="100%"/>
+```text
+╔══════════════════════════════════════╗
+║                                      ║
+║          ACCESS GRANTED               ║
+║                                      ║
+║       KEEP LEARNING. KEEP HACKING.   ║
+║       STAY ETHICAL.                  ║
+║                                      ║
+╚══════════════════════════════════════╝
+```
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:101010,100:050505&height=130&section=footer" width="100%"/>
 
 </div>
