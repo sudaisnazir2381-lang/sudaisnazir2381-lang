@@ -255,13 +255,33 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 
 <div align="center">
 
-<a href="https://github.com/sudaisnazir2381-lang/Code-Red">
-<img src="code-red-repo-card.png" width="45%"/>
-</a>
+<svg viewBox="0 0 500 190" xmlns="http://www.w3.org/2000/svg" width="480">
+  <rect x="1" y="1" width="498" height="188" fill="#080000" stroke="#FF3333" stroke-width="1.5"/>
+  <rect x="6" y="6" width="488" height="178" fill="none" stroke="#330000" stroke-width="2"/>
+
+  <text x="26" y="48" font-family="JetBrains Mono, monospace" font-size="20" fill="#FF3333">»</text>
+  <text x="52" y="48" font-family="JetBrains Mono, monospace" font-size="26" font-weight="bold" fill="#FFFFFF">Code-Red</text>
+
+  <text x="26" y="80" font-family="JetBrains Mono, monospace" font-size="13" fill="#D2D2D2">Security research &amp; penetration testing</text>
+  <text x="26" y="98" font-family="JetBrains Mono, monospace" font-size="13" fill="#D2D2D2">toolkit / codebase</text>
+
+  <line x1="26" y1="118" x2="474" y2="118" stroke="#330000" stroke-width="1"/>
+
+  <circle cx="32" cy="142" r="6" fill="#FF3333"/>
+  <text x="46" y="147" font-family="JetBrains Mono, monospace" font-size="12" fill="#969696">Python</text>
+
+  <text x="146" y="148" font-family="JetBrains Mono, monospace" font-size="14" fill="#FF3333">★</text>
+  <text x="166" y="147" font-family="JetBrains Mono, monospace" font-size="12" fill="#969696">—</text>
+
+  <text x="216" y="148" font-family="JetBrains Mono, monospace" font-size="14" fill="#FF3333">⑂</text>
+  <text x="238" y="147" font-family="JetBrains Mono, monospace" font-size="12" fill="#969696">—</text>
+
+  <text x="474" y="147" font-family="JetBrains Mono, monospace" font-size="12" fill="#FF3333" text-anchor="end">State Verified</text>
+</svg>
 
 </div>
 
-> Static card for `Code-Red` — doesn't depend on any external API, so it always loads. Upload `code-red-repo-card.png` to your profile repo alongside the README for this to render.
+> Drawn inline as SVG directly in this markdown file — no image upload required, renders natively on GitHub.
 
 ---
 
@@ -269,11 +289,48 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudaisnazir2381-lang/sudaisnazir2381-lang/output/github-contribution-grid-snake.svg" width="95%"/>
+<svg viewBox="0 0 720 130" xmlns="http://www.w3.org/2000/svg" width="95%">
+  <rect x="0" y="0" width="720" height="130" fill="#080000"/>
+
+  <!-- decorative contribution grid -->
+  <g id="grid">
+    <!-- 30 columns x 7 rows of small squares, varying red shades -->
+    <!-- Row shades cycle through a palette to suggest activity intensity -->
+  </g>
+
+  <!-- generated grid squares -->
+  <g>
+    <!-- Using a repeating pattern manually laid out -->
+    <!-- col spacing 24, row spacing 16, square size 12 -->
+    <!-- shades palette: #1a0000 #330000 #661111 #aa1f1f #FF3333 -->
+    <g transform="translate(10,10)">
+      <!-- Row 0 -->
+      <rect x="0" y="0" width="12" height="12" fill="#1a0000"/><rect x="24" y="0" width="12" height="12" fill="#330000"/><rect x="48" y="0" width="12" height="12" fill="#1a0000"/><rect x="72" y="0" width="12" height="12" fill="#661111"/><rect x="96" y="0" width="12" height="12" fill="#1a0000"/><rect x="120" y="0" width="12" height="12" fill="#330000"/><rect x="144" y="0" width="12" height="12" fill="#aa1f1f"/><rect x="168" y="0" width="12" height="12" fill="#1a0000"/><rect x="192" y="0" width="12" height="12" fill="#330000"/><rect x="216" y="0" width="12" height="12" fill="#1a0000"/><rect x="240" y="0" width="12" height="12" fill="#661111"/><rect x="264" y="0" width="12" height="12" fill="#1a0000"/><rect x="288" y="0" width="12" height="12" fill="#330000"/><rect x="312" y="0" width="12" height="12" fill="#FF3333"/><rect x="336" y="0" width="12" height="12" fill="#1a0000"/><rect x="360" y="0" width="12" height="12" fill="#330000"/><rect x="384" y="0" width="12" height="12" fill="#1a0000"/><rect x="408" y="0" width="12" height="12" fill="#661111"/><rect x="432" y="0" width="12" height="12" fill="#1a0000"/><rect x="456" y="0" width="12" height="12" fill="#330000"/><rect x="480" y="0" width="12" height="12" fill="#aa1f1f"/><rect x="504" y="0" width="12" height="12" fill="#1a0000"/><rect x="528" y="0" width="12" height="12" fill="#330000"/><rect x="552" y="0" width="12" height="12" fill="#1a0000"/><rect x="576" y="0" width="12" height="12" fill="#661111"/><rect x="600" y="0" width="12" height="12" fill="#1a0000"/><rect x="624" y="0" width="12" height="12" fill="#330000"/><rect x="648" y="0" width="12" height="12" fill="#1a0000"/><rect x="672" y="0" width="12" height="12" fill="#aa1f1f"/><rect x="696" y="0" width="12" height="12" fill="#1a0000"/>
+      <!-- Row 1 -->
+      <rect x="0" y="16" width="12" height="12" fill="#330000"/><rect x="24" y="16" width="12" height="12" fill="#661111"/><rect x="48" y="16" width="12" height="12" fill="#1a0000"/><rect x="72" y="16" width="12" height="12" fill="#aa1f1f"/><rect x="96" y="16" width="12" height="12" fill="#330000"/><rect x="120" y="16" width="12" height="12" fill="#1a0000"/><rect x="144" y="16" width="12" height="12" fill="#FF3333"/><rect x="168" y="16" width="12" height="12" fill="#330000"/><rect x="192" y="16" width="12" height="12" fill="#1a0000"/><rect x="216" y="16" width="12" height="12" fill="#661111"/><rect x="240" y="16" width="12" height="12" fill="#1a0000"/><rect x="264" y="16" width="12" height="12" fill="#330000"/><rect x="288" y="16" width="12" height="12" fill="#aa1f1f"/><rect x="312" y="16" width="12" height="12" fill="#330000"/><rect x="336" y="16" width="12" height="12" fill="#1a0000"/><rect x="360" y="16" width="12" height="12" fill="#661111"/><rect x="384" y="16" width="12" height="12" fill="#1a0000"/><rect x="408" y="16" width="12" height="12" fill="#330000"/><rect x="432" y="16" width="12" height="12" fill="#aa1f1f"/><rect x="456" y="16" width="12" height="12" fill="#1a0000"/><rect x="480" y="16" width="12" height="12" fill="#330000"/><rect x="504" y="16" width="12" height="12" fill="#661111"/><rect x="528" y="16" width="12" height="12" fill="#1a0000"/><rect x="552" y="16" width="12" height="12" fill="#330000"/><rect x="576" y="16" width="12" height="12" fill="#1a0000"/><rect x="600" y="16" width="12" height="12" fill="#aa1f1f"/><rect x="624" y="16" width="12" height="12" fill="#1a0000"/><rect x="648" y="16" width="12" height="12" fill="#330000"/><rect x="672" y="16" width="12" height="12" fill="#1a0000"/><rect x="696" y="16" width="12" height="12" fill="#661111"/>
+      <!-- Row 2 -->
+      <rect x="0" y="32" width="12" height="12" fill="#1a0000"/><rect x="24" y="32" width="12" height="12" fill="#330000"/><rect x="48" y="32" width="12" height="12" fill="#661111"/><rect x="72" y="32" width="12" height="12" fill="#1a0000"/><rect x="96" y="32" width="12" height="12" fill="#aa1f1f"/><rect x="120" y="32" width="12" height="12" fill="#330000"/><rect x="144" y="32" width="12" height="12" fill="#1a0000"/><rect x="168" y="32" width="12" height="12" fill="#FF3333"/><rect x="192" y="32" width="12" height="12" fill="#330000"/><rect x="216" y="32" width="12" height="12" fill="#1a0000"/><rect x="240" y="32" width="12" height="12" fill="#661111"/><rect x="264" y="32" width="12" height="12" fill="#1a0000"/><rect x="288" y="32" width="12" height="12" fill="#330000"/><rect x="312" y="32" width="12" height="12" fill="#aa1f1f"/><rect x="336" y="32" width="12" height="12" fill="#1a0000"/><rect x="360" y="32" width="12" height="12" fill="#330000"/><rect x="384" y="32" width="12" height="12" fill="#661111"/><rect x="408" y="32" width="12" height="12" fill="#1a0000"/><rect x="432" y="32" width="12" height="12" fill="#330000"/><rect x="456" y="32" width="12" height="12" fill="#aa1f1f"/><rect x="480" y="32" width="12" height="12" fill="#1a0000"/><rect x="504" y="32" width="12" height="12" fill="#330000"/><rect x="528" y="32" width="12" height="12" fill="#661111"/><rect x="552" y="32" width="12" height="12" fill="#1a0000"/><rect x="576" y="32" width="12" height="12" fill="#330000"/><rect x="600" y="32" width="12" height="12" fill="#1a0000"/><rect x="624" y="32" width="12" height="12" fill="#aa1f1f"/><rect x="648" y="32" width="12" height="12" fill="#1a0000"/><rect x="672" y="32" width="12" height="12" fill="#330000"/><rect x="696" y="32" width="12" height="12" fill="#1a0000"/>
+      <!-- Row 3 -->
+      <rect x="0" y="48" width="12" height="12" fill="#330000"/><rect x="24" y="48" width="12" height="12" fill="#1a0000"/><rect x="48" y="48" width="12" height="12" fill="#aa1f1f"/><rect x="72" y="48" width="12" height="12" fill="#330000"/><rect x="96" y="48" width="12" height="12" fill="#1a0000"/><rect x="120" y="48" width="12" height="12" fill="#661111"/><rect x="144" y="48" width="12" height="12" fill="#1a0000"/><rect x="168" y="48" width="12" height="12" fill="#330000"/><rect x="192" y="48" width="12" height="12" fill="#FF3333"/><rect x="216" y="48" width="12" height="12" fill="#330000"/><rect x="240" y="48" width="12" height="12" fill="#1a0000"/><rect x="264" y="48" width="12" height="12" fill="#661111"/><rect x="288" y="48" width="12" height="12" fill="#1a0000"/><rect x="312" y="48" width="12" height="12" fill="#330000"/><rect x="336" y="48" width="12" height="12" fill="#aa1f1f"/><rect x="360" y="48" width="12" height="12" fill="#1a0000"/><rect x="384" y="48" width="12" height="12" fill="#330000"/><rect x="408" y="48" width="12" height="12" fill="#661111"/><rect x="432" y="48" width="12" height="12" fill="#1a0000"/><rect x="456" y="48" width="12" height="12" fill="#330000"/><rect x="480" y="48" width="12" height="12" fill="#aa1f1f"/><rect x="504" y="48" width="12" height="12" fill="#1a0000"/><rect x="528" y="48" width="12" height="12" fill="#330000"/><rect x="552" y="48" width="12" height="12" fill="#661111"/><rect x="576" y="48" width="12" height="12" fill="#1a0000"/><rect x="600" y="48" width="12" height="12" fill="#330000"/><rect x="624" y="48" width="12" height="12" fill="#1a0000"/><rect x="648" y="48" width="12" height="12" fill="#aa1f1f"/><rect x="672" y="48" width="12" height="12" fill="#1a0000"/><rect x="696" y="48" width="12" height="12" fill="#330000"/>
+      <!-- Row 4 -->
+      <rect x="0" y="64" width="12" height="12" fill="#1a0000"/><rect x="24" y="64" width="12" height="12" fill="#661111"/><rect x="48" y="64" width="12" height="12" fill="#1a0000"/><rect x="72" y="64" width="12" height="12" fill="#330000"/><rect x="96" y="64" width="12" height="12" fill="#aa1f1f"/><rect x="120" y="64" width="12" height="12" fill="#1a0000"/><rect x="144" y="64" width="12" height="12" fill="#330000"/><rect x="168" y="64" width="12" height="12" fill="#661111"/><rect x="192" y="64" width="12" height="12" fill="#1a0000"/><rect x="216" y="64" width="12" height="12" fill="#FF3333"/><rect x="240" y="64" width="12" height="12" fill="#330000"/><rect x="264" y="64" width="12" height="12" fill="#1a0000"/><rect x="288" y="64" width="12" height="12" fill="#661111"/><rect x="312" y="64" width="12" height="12" fill="#1a0000"/><rect x="336" y="64" width="12" height="12" fill="#330000"/><rect x="360" y="64" width="12" height="12" fill="#aa1f1f"/><rect x="384" y="64" width="12" height="12" fill="#1a0000"/><rect x="408" y="64" width="12" height="12" fill="#330000"/><rect x="432" y="64" width="12" height="12" fill="#661111"/><rect x="456" y="64" width="12" height="12" fill="#1a0000"/><rect x="480" y="64" width="12" height="12" fill="#330000"/><rect x="504" y="64" width="12" height="12" fill="#aa1f1f"/><rect x="528" y="64" width="12" height="12" fill="#1a0000"/><rect x="552" y="64" width="12" height="12" fill="#330000"/><rect x="576" y="64" width="12" height="12" fill="#661111"/><rect x="600" y="64" width="12" height="12" fill="#1a0000"/><rect x="624" y="64" width="12" height="12" fill="#330000"/><rect x="648" y="64" width="12" height="12" fill="#1a0000"/><rect x="672" y="64" width="12" height="12" fill="#aa1f1f"/><rect x="696" y="64" width="12" height="12" fill="#1a0000"/>
+      <!-- Row 5 -->
+      <rect x="0" y="80" width="12" height="12" fill="#330000"/><rect x="24" y="80" width="12" height="12" fill="#1a0000"/><rect x="48" y="80" width="12" height="12" fill="#661111"/><rect x="72" y="80" width="12" height="12" fill="#1a0000"/><rect x="96" y="80" width="12" height="12" fill="#330000"/><rect x="120" y="80" width="12" height="12" fill="#aa1f1f"/><rect x="144" y="80" width="12" height="12" fill="#1a0000"/><rect x="168" y="80" width="12" height="12" fill="#330000"/><rect x="192" y="80" width="12" height="12" fill="#661111"/><rect x="216" y="80" width="12" height="12" fill="#330000"/><rect x="240" y="80" width="12" height="12" fill="#FF3333"/><rect x="264" y="80" width="12" height="12" fill="#330000"/><rect x="288" y="80" width="12" height="12" fill="#1a0000"/><rect x="312" y="80" width="12" height="12" fill="#661111"/><rect x="336" y="80" width="12" height="12" fill="#1a0000"/><rect x="360" y="80" width="12" height="12" fill="#330000"/><rect x="384" y="80" width="12" height="12" fill="#aa1f1f"/><rect x="408" y="80" width="12" height="12" fill="#1a0000"/><rect x="432" y="80" width="12" height="12" fill="#330000"/><rect x="456" y="80" width="12" height="12" fill="#661111"/><rect x="480" y="80" width="12" height="12" fill="#1a0000"/><rect x="504" y="80" width="12" height="12" fill="#330000"/><rect x="528" y="80" width="12" height="12" fill="#aa1f1f"/><rect x="552" y="80" width="12" height="12" fill="#1a0000"/><rect x="576" y="80" width="12" height="12" fill="#330000"/><rect x="600" y="80" width="12" height="12" fill="#661111"/><rect x="624" y="80" width="12" height="12" fill="#1a0000"/><rect x="648" y="80" width="12" height="12" fill="#330000"/><rect x="672" y="80" width="12" height="12" fill="#1a0000"/><rect x="696" y="80" width="12" height="12" fill="#aa1f1f"/>
+      <!-- Row 6 -->
+      <rect x="0" y="96" width="12" height="12" fill="#1a0000"/><rect x="24" y="96" width="12" height="12" fill="#330000"/><rect x="48" y="96" width="12" height="12" fill="#1a0000"/><rect x="72" y="96" width="12" height="12" fill="#661111"/><rect x="96" y="96" width="12" height="12" fill="#1a0000"/><rect x="120" y="96" width="12" height="12" fill="#330000"/><rect x="144" y="96" width="12" height="12" fill="#aa1f1f"/><rect x="168" y="96" width="12" height="12" fill="#1a0000"/><rect x="192" y="96" width="12" height="12" fill="#330000"/><rect x="216" y="96" width="12" height="12" fill="#661111"/><rect x="240" y="96" width="12" height="12" fill="#330000"/><rect x="264" y="96" width="12" height="12" fill="#FF3333"/><rect x="288" y="96" width="12" height="12" fill="#330000"/><rect x="312" y="96" width="12" height="12" fill="#1a0000"/><rect x="336" y="96" width="12" height="12" fill="#661111"/><rect x="360" y="96" width="12" height="12" fill="#1a0000"/><rect x="384" y="96" width="12" height="12" fill="#330000"/><rect x="408" y="96" width="12" height="12" fill="#aa1f1f"/><rect x="432" y="96" width="12" height="12" fill="#1a0000"/><rect x="456" y="96" width="12" height="12" fill="#330000"/><rect x="480" y="96" width="12" height="12" fill="#661111"/><rect x="504" y="96" width="12" height="12" fill="#1a0000"/><rect x="528" y="96" width="12" height="12" fill="#330000"/><rect x="552" y="96" width="12" height="12" fill="#aa1f1f"/><rect x="576" y="96" width="12" height="12" fill="#1a0000"/><rect x="600" y="96" width="12" height="12" fill="#330000"/><rect x="624" y="96" width="12" height="12" fill="#661111"/><rect x="648" y="96" width="12" height="12" fill="#1a0000"/><rect x="672" y="96" width="12" height="12" fill="#330000"/><rect x="696" y="96" width="12" height="12" fill="#1a0000"/>
+    </g>
+  </g>
+
+  <!-- snake winding across the grid -->
+  <path d="M 10 16 H 154 V 32 H 250 V 48 H 202 V 64 H 346 V 80 H 250 V 96 H 394"
+        fill="none" stroke="#FF3333" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"/>
+  <circle cx="394" cy="102" r="7" fill="#FFFFFF"/>
+  <circle cx="392" cy="100" r="1.4" fill="#080000"/>
+</svg>
 
 </div>
 
-> Powered by the `platane/snk` GitHub Action — generates an animated snake that "eats" your contribution graph. Add the workflow to a repo named exactly like your username to activate this.
+> Hand-drawn inline SVG — a stylized contribution grid with a snake winding through it, in your color palette. It's decorative rather than pulling live commit data (that requires the `platane/snk` GitHub Action running on your account), but it renders directly with zero setup and no external requests.
 
 ---
 
