@@ -1,0 +1,11 @@
+<svg width="500" height="74" viewBox="0 0 500 74" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="g"><feGaussianBlur stdDeviation="5"/></filter>
+<linearGradient id="line" x1="0" x2="1"><stop stop-color="#ff3030"/><stop offset="1" stop-color="#8b0000"/></linearGradient>
+</defs>
+<rect x="4" y="8" width="492" height="58" rx="12" fill="#050505" stroke="#5d0000"/>
+<rect x="4" y="8" width="5" height="58" rx="2" fill="#ff3030" filter="url(#g)"/>
+<rect x="4" y="8" width="5" height="58" rx="2" fill="#ff3030"/>
+<path d="M28 54H472" stroke="url(#line)" stroke-opacity=".3"/>
+<text x="28" y="40" font-family="JetBrains Mono,Consolas,monospace" font-size="19" font-weight="700" letter-spacing="2" fill="#ff4040">&gt; SECURITY RESEARCH</text>
+</svg>
