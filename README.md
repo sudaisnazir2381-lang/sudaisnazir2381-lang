@@ -256,12 +256,12 @@ Hands-on experience researching and responsibly disclosing vulnerabilities in re
 <div align="center">
 
 <a href="https://github.com/sudaisnazir2381-lang/Code-Red">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudaisnazir2381-lang&repo=Code-Red&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+<img src="code-red-repo-card.png" width="45%"/>
 </a>
 
 </div>
 
-> Pinned repo pulls stars, forks, and language live from GitHub for `Code-Red`.
+> Static card for `Code-Red` — doesn't depend on any external API, so it always loads. Upload `code-red-repo-card.png` to your profile repo alongside the README for this to render.
 
 ---
 
