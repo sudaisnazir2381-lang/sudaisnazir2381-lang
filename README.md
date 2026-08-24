@@ -14,10 +14,10 @@
 
 <br><br>
 
+<!-- Social / profile links row - fill in your real handles -->
 <a href="https://github.com/sudaisnazir2381-lang">
 <img src="https://img.shields.io/badge/GitHub-080000?style=for-the-badge&logo=github&logoColor=FF3333"/>
 </a>
-
 <a href="mailto:sudaisnazir2381@gmail.com">
 <img src="https://img.shields.io/badge/Email-080000?style=for-the-badge&logo=gmail&logoColor=FF3333"/>
 </a>
@@ -43,19 +43,13 @@
 
 </div>
 
----
-
 ## `> whoami`
 
 I started my cybersecurity journey at **13** and have been building practical security experience ever since.
 
-I'm a **State Verified cybersecurity researcher and pentester**, focused on:
+I'm a **State Verified cybersecurity researcher and pentester**, with a strong focus on **penetration testing, web application security, bug bounty hunting, API security, OSINT, and vulnerability research**.
 
-`Penetration Testing` • `Web Security` • `API Security` • `Bug Bounty`
-
-`OSINT` • `Reconnaissance` • `Vulnerability Research`
-
-I enjoy understanding how applications work, identifying security weaknesses, researching vulnerabilities, and responsibly reporting security issues.
+I enjoy understanding how applications work, identifying security weaknesses, and responsibly reporting vulnerabilities.
 
 ---
 
@@ -75,8 +69,6 @@ I enjoy understanding how applications work, identifying security weaknesses, re
 
 </div>
 
-<br>
-
 My primary specialty is **Penetration Testing**, with a strong focus on web applications, APIs, authentication, authorization, and vulnerability research.
 
 I also have hands-on experience in **Bug Bounty Hunting, OSINT, Reconnaissance, Web Security, and API Security**.
@@ -95,19 +87,13 @@ I also have hands-on experience in **Bug Bounty Hunting, OSINT, Reconnaissance, 
 <img src="https://img.shields.io/badge/BASF-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://pescheck.io/responsible-disclosure-hall-of-fame/">
 <img src="https://img.shields.io/badge/PESCHECK-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://lespasoftware.com/security.html">
 <img src="https://img.shields.io/badge/LESPA%20SOFTWARE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.gokoppa.com/security/hall-of-fame/">
 <img src="https://img.shields.io/badge/KOPPA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
@@ -119,22 +105,21 @@ I also have hands-on experience in **Bug Bounty Hunting, OSINT, Reconnaissance, 
 <img src="https://img.shields.io/badge/UNISTRA-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://gbtwente.nl/responsible-disclosure">
 <img src="https://img.shields.io/badge/GBTWENTE-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
-
-&nbsp;&nbsp;
 
 <a href="https://www.pro4all.com/legal/responsible-disclosure">
 <img src="https://img.shields.io/badge/PRO4ALL-RECOGNIZED-FF3333?style=for-the-badge&labelColor=080000"/>
 </a>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 `BASF` • `PESCHECK` • `LESPA SOFTWARE` • `KOPPA`
-
 `UNISTRA` • `GBTWENTE` • `PRO4ALL`
 
 </div>
@@ -153,21 +138,13 @@ I also have hands-on experience in **Bug Bounty Hunting, OSINT, Reconnaissance, 
 ### `WEB`
 
 XSS
-
 SQL Injection
-
 SSRF
-
 CSRF
-
 XXE
-
 CORS
-
 IDOR
-
 Clickjacking
-
 HTTP Smuggling
 
 </td>
@@ -177,17 +154,11 @@ HTTP Smuggling
 ### `AUTH`
 
 Authentication
-
 Authorization
-
 OAuth
-
 Sessions
-
 Password Reset
-
 Rate Limiting
-
 Account Security
 
 </td>
@@ -197,15 +168,10 @@ Account Security
 ### `API`
 
 API Security
-
 Access Control
-
 Business Logic
-
 Input Validation
-
 Information Disclosure
-
 Authorization Testing
 
 </td>
@@ -218,8 +184,6 @@ Authorization Testing
 ---
 
 ## `> security research`
-
-<div align="center">
 
 ```text
 ┌──────────────────────────────────────────────────┐
@@ -238,24 +202,20 @@ Authorization Testing
 └──────────────────────────────────────────────────┘
 ```
 
-</div>
+My research focuses on understanding **application logic and security assumptions**, rather than simply relying on automated scanners.
 
-My research focuses on understanding **application architecture, security assumptions, trust boundaries, HTTP behavior, and application logic**, rather than simply relying on automated scanners.
+I like investigating:
 
-### Areas I investigate
-
-```text
-[+] Authentication & Authorization
-[+] Password Reset Flows
-[+] Account & Email Enumeration
-[+] Rate Limiting
-[+] OAuth Flows
-[+] API Access Control
-[+] Information Disclosure
-[+] Business Logic
-[+] Infrastructure Security
-[+] Resource Exhaustion
-```
+* Authentication and authorization
+* Password-reset functionality
+* Account and email enumeration
+* Rate-limit weaknesses
+* OAuth flows
+* API access control
+* Information disclosure
+* Business logic vulnerabilities
+* Infrastructure security
+* Resource-exhaustion issues
 
 ---
 
@@ -273,23 +233,61 @@ My research focuses on understanding **application architecture, security assump
 
 Hands-on experience researching and responsibly disclosing vulnerabilities in real-world applications.
 
-My research has included:
+---
 
-`Authentication` • `Authorization` • `API Security`
+## `> github activity`
 
-`OAuth` • `Rate Limiting` • `CSRF` • `Information Disclosure`
+<div align="center">
 
-`Infrastructure Security` • `Application Logic`
+<img src="https://github-readme-stats.vercel.app/api?username=sudaisnazir2381-lang&show_icons=true&count_private=true&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="49%"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudaisnazir2381-lang&bg_color=080000&color=FF3333&line=FF3333&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+> Live stats and contribution graph for `sudaisnazir2381-lang`.
 
 ---
 
-## `> methodology`
+## `> featured repositories`
+
+<div align="center">
+
+<a href="https://github.com/sudaisnazir2381-lang/Code-Red">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sudaisnazir2381-lang&repo=Code-Red&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=080000&border_color=330000" width="45%"/>
+</a>
+
+</div>
+
+> Pinned repo pulls stars, forks, and language live from GitHub for `Code-Red`.
+
+---
+
+## `> contribution snake`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudaisnazir2381-lang/sudaisnazir2381-lang/output/github-contribution-grid-snake.svg" width="95%"/>
+
+</div>
+
+> Powered by the `platane/snk` GitHub Action — generates an animated snake that "eats" your contribution graph. Add the workflow to a repo named exactly like your username to activate this.
+
+---
+
+## `> mindset`
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=FF3333&center=true&vCenter=true&width=800&lines=RECON+%E2%86%92+ANALYZE+%E2%86%92+TEST;TEST+%E2%86%92+UNDERSTAND+%E2%86%92+REPORT;REPORT+%E2%86%92+FIX+%E2%86%92+SECURE"/>
 
-<br><br>
+</div>
+
+<br>
+
+<div align="center">
 
 ```text
         ┌─────────────┐
@@ -326,16 +324,6 @@ My research has included:
 
 ---
 
-## `> mindset`
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=1800&pause=600&color=FF3333&center=true&vCenter=true&width=800&lines=OBSERVE+%E2%86%92+ANALYZE+%E2%86%92+TEST;UNDERSTAND+%E2%86%92+REPORT+%E2%86%92+SECURE;LEARN+%E2%86%92+BREAK+%E2%86%92+BUILD+%E2%86%92+IMPROVE"/>
-
-</div>
-
----
-
 ## `> philosophy`
 
 <div align="center">
@@ -347,10 +335,6 @@ My research has included:
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=750&lines=Understand+the+architecture;Understand+the+trust+boundaries;Understand+the+application+logic;Understand+the+attack+surface"/>
 
 </div>
-
-I don't want to simply memorize payloads.
-
-I want to understand the **architecture, trust relationships, application logic, HTTP behavior, and security assumptions** behind every vulnerability.
 
 ---
 
