@@ -66,9 +66,7 @@ I enjoy understanding how applications work, identifying security weaknesses, an
 
 ---
 
-<div align="center">
-<img src="assets/credentials.svg" alt="credentials and recognition"/>
-</div>
+<img src="/assets/credentials.svg">
 
 <div align="center">
 
