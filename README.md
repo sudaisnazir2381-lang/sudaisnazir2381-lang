@@ -66,9 +66,9 @@ I enjoy understanding how applications work, identifying security weaknesses, an
 
 ---
 
-<img src="/assets/credentials.svg">
-
 <div align="center">
+<img src="assets/credentials.svg" alt="credentials and recognition"/>
+</div>
 
 ### `PRIMARY SPECIALTY`
 
